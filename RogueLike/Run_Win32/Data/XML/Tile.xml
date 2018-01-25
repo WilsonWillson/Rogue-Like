@@ -1,0 +1,62 @@
+﻿<?xml version="1.0"?>
+<TileDefinition>
+    <!-- Exit -->
+	<Tile Name = "Exit" Solid = "No" Opaque = "Yes" GCost = "1" Biome = " Special"/>
+	<Tile Name = "Stairs Up" Solid = "No" Opaque = "Yes" GCost = "1" Biome ="Special"/>
+
+    <!-- Stone/Dirt/Sand -->
+    <Tile Name = "Stone" Solid = "Yes" Opaque = "Yes"  GCost = "999" Biome = "Dungeon" />
+    <Tile Name = "StoneGrayWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "StoneDarkWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "StoneBrownWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "Dirt" Solid = "No" Opaque = "Yes" GCost = "1" Biome = "Town Plains"/>
+    <Tile Name = "Sand" Solid = "No" Opaque = "Yes" GCost = "2" Biome = "Desert"/>
+    <Tile Name = "StandstoneFloor" Solid = "No" Opaque = "Yes" GCost = "2" Biome = "Dungeon" />
+    <Tile Name = "SandStoneWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+
+    <!-- Grass and Swamp -->
+    <Tile Name = "Grass" Solid = "No" Opaque = "Yes"  GCost = "1" Biome = "Forset Plains"/>
+    <Tile Name = "Bog" Solid = "No" Opaque = "Yes"  GCost = "1" Biome = "Forset Swamp"/>
+    <Tile Name = "Swamp" Solid = "No" Opaque = "Yes" GCost = "4" Biome = "Dungeon" />
+    <Tile Name = "VineFloor" Solid = "No" Opaque = "Yes" GCost = "1" Biome = "Dungeon"/>
+    <Tile Name = "VineWall" Solid = "Yes" Opaque = "Yes" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "GrassDirt" Solid = "No" Opaque = "Yes" GCost = "1" Biome = "Plains"/>
+    <Tile Name = "DarkGrassDirt" Solid = "No" Opaque = "Yes" GCost = "1" Biome = "Forest"/>
+    <Tile Name = "Tree" Solid = "Yes" Opaque = "Yes" GCost = "999" Biome = "Lava"/>
+
+    <!-- Water -->
+    <Tile Name = "ShallowWater" Solid = "No" Opaque = "Yes" GCost = "3" Biome = "Water"/>
+    <Tile Name = "DeepWater" Solid = "Yes" Opaque = "Yes" GCost = "999" Biome = "Water"/>
+
+    <!-- City -->
+    <Tile Name = "PebbleBrown" Solid = "No" Opaque = "Yes" GCost = "1" Biome = "Dungeon" />
+    <Tile Name = "CobbleFloor" Solid = "No" Opaque = "Yes" GCost = "1" Biome = "Dungeon City" />
+    <Tile Name = "BrickBrownWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "BrickVineWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "BrickDarkWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "BrickGrayWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+
+
+    <!-- Lava/Ice -->
+    <Tile Name = "Ice" Solid = "No" Opaque = "Yes" GCost = "2" Biome = "Snow"/>
+    <Tile Name = "Lava" Solid = "Yes" Opaque = "Yes" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "VolcanicFloor" Solid = "No" Opaque = "Yes" GCost = "2" Biome = "Dungeon" />
+    <Tile Name = "Lava Rock" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+
+    <!-- Dungeon Tiles -->
+    <Tile Name = "DarkRedFloor" Solid = "No" Opaque = "Yes" GCost = "1" Biome = "Dungeon City"/>
+    <Tile Name = "RedFloor" Solid = "No" Opaque = "Yes" GCost = "1" Biome = "Dungeon" />
+    <Tile Name = "TombFloor" Solid = "No" Opaque = "Yes" GCost = "1" Biome = "Dungeon" />
+    <Tile Name = "Markings" Solid = "No" Opaque = "No" GCost = "6" Biome = "Lava"/>
+    <Tile Name = "FleshWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "YellowRockWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>   
+    <Tile Name = "BoneWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "YellowTombWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "SlimeWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "MarbleWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "CrystalWall" Solid = "Yes" Opaque = "No" GCost = "999" Biome = "Lava"/>
+    <Tile Name = "CrystalFloor" Solid = "No" Opaque = "Yes"  GCost = "2" Biome = "AdvanceDungeon" />
+    <Tile Name = "MarbleFloor" Solid = "No" Opaque = "Yes" GCost = "1" Biome = "Dungeon" />
+    <Tile Name = "Mesh" Solid = "No" Opaque = "Yes"  GCost = "3" Biome = "Dungeon" />
+
+</TileDefinition>

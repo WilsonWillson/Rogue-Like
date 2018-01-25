@@ -1,0 +1,5 @@
+﻿<?xml version="1.0"?>
+<MapFeature>
+    <Feature Name = "Door" Solid = "Yes" Opaque = "Yes" RGBA = "122, 82, 48, 255" GlYPHRGBA = "0, 0, 0, 0" GlYPH = "D"/>
+    <Feature Name = "Fence" Solid = "Yes" Opaque = "Yes" RGBA = "0, 128, 0, 255" GlYPHRGBA = "255, 255, 0, 0" GlYPH = "#"/>
+</MapFeature>

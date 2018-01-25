@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<Maps>
+
+	<Map name = "Test Level" dimensions = "40, 3" location = "Cave">
+		 <Row attribute = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"/>
+		 <Row attribute = "X......................................X"/>
+		 <Row attribute = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"/>
+    </Map>
+
+<!--Caves-->
+    <Map name = "Cave Narrow Rooms" dimensions = "30, 30" location = "Cave">
+    	<Generators>
+            <Requirments Name = "MapGeneratorRoomsAndCorridors" NumberOfRooms ="4" RoomLengthX = "6" RoomLengthY = "6" DefaultFillTile = "StoneDarkWall" DefaultRoomFloor = "Dirt" DefaultHallwayFloor = "Dirt" Overlap = "Yes" Straightness = "1"/>
+    		<PerlinNode  scale = "150"  numOctaves = "3"  octavePersistence = "0.4" octaveScale = "1.9" renormalize = "false" seed ="225" >
+    			<Rule tile = "Dirt" chance = "-.07"/>
+    		</PerlinNode>
+    		<CARules Passes = "3">
+    			<Rule ifTile = "Dirt" effectTile = "StoneDarkWall" replaceTile = "StoneDarkWall" surround = "4" percentToRun = "100" />
+    			<Rule ifTile = "Dirt" effectTile = "StoneDarkWall" replaceTile = "Dirt" surround = "1" percentToRun = "75"/> 
+    		</CARules>
+    	</Generators>
+    </Map>
+
+    <Map name = "CaveShore" dimensions = "30, 30" location = "Cave Mountains Merfolk">
+    	<Generators>
+            <Requirments Name = "MapGeneratorRoomsAndCorridors" NumberOfRooms ="5" RoomLengthX = "8" RoomLengthY = "6" DefaultFillTile = "DeepWater" DefaultRoomFloor = "Grass" DefaultHallwayFloor = "PebbleBrown" Overlap = "Yes" Straightness = "1"/>
+    		<PerlinNode  scale = "150"  numOctaves = "4"  octavePersistence = "0.8" octaveScale = "1.2" renormalize = "true" seed ="225" >
+    			<Rule tile = "Grass" chance = ".5" />
+    		</PerlinNode>
+    		 <CARules Passes = "2">
+    			<Rule ifTile = "Grass" effectTile = "ShallowWater" replaceTile = "Sand" surround = "1" percentToRun = "100" />
+    			<Rule ifTile = "Grass" effectTile = "DeepWater" replaceTile = "Sand" surround = "1" percentToRun = "100" />
+			</CARules>
+			 <CARules Passes = "2">
+    			<Rule ifTile = "ShallowWater" effectTile = "ShallowWater" replaceTile = "DeepWater" surround = "2" percentToRun = "100" />
+    		</CARules>
+            <CARules Passes = "20">
+                <Rule ifTile = "Grass" effectTile = "PebbleBrown" replaceTile = "Grass" surround = "1" percentToRun = "100" />
+            </CARules>
+    	</Generators>
+    </Map>
+
+<!-- Forrest/Plains-->
+<Map name = "Forest" dimensions = "30, 30" location = "Forrest">
+        <Generators>
+            <Requirments Name = "MapGeneratorRoomsAndCorridors" NumberOfRooms ="0" RoomLengthX = "0" RoomLengthY = "0" DefaultFillTile = "Grass" DefaultRoomFloor = "Grass" DefaultHallwayFloor = "Grass" Overlap = "No" Straightness = "1"/>
+            <PerlinNode  scale = "100"  numOctaves = "3"  octavePersistence = "0.2" octaveScale = "1.1" renormalize = "true" seed ="2465" >
+                <Rule tile = "Tree" chance = "-.03"/>
+            </PerlinNode>
+        </Generators>
+    </Map>
+
+<!-- Ice-->
+<Map name = "Ice Temple" dimensions = "30, 30" location = "Mountains">
+        <Generators>
+            <Requirments Name = "MapGeneratorRoomsAndCorridors" NumberOfRooms ="8" RoomLengthX = "7" RoomLengthY = "6" DefaultFillTile = "CrystalWall" DefaultRoomFloor = "Ice" DefaultHallwayFloor = "Ice" Overlap = "Yes" Straightness = "1"/>
+        </Generators>
+    </Map>
+
+    <Map name = "Ice Fire" dimensions = "30, 30" location = "Elementals">
+        <Generators>
+            <Requirments Name = "MapGeneratorRoomsAndCorridors" NumberOfRooms ="8" RoomLengthX = "7" RoomLengthY = "6" DefaultFillTile = "Lava" DefaultRoomFloor = "Ice" DefaultHallwayFloor = "Ice" Overlap = "Yes" Straightness = "1"/>
+        </Generators>
+    </Map>
+
+<!-- Volcano Themed-->
+<Map name = "Volcano Big Dungeon" dimensions = "30, 30" location = "Demons">
+        <Generators>
+            <Requirments Name = "MapGeneratorRoomsAndCorridors" NumberOfRooms ="15" RoomLengthX = "8" RoomLengthY = "8" DefaultFillTile = "Lava" DefaultRoomFloor = "CobbleFloor" DefaultHallwayFloor = "CobbleFloor" Overlap = "Yes" Straightness = "1"/>
+        </Generators>
+    </Map>
+
+    <Map name = "Volcano Dungeon" dimensions = "30, 30" location = "Demons Ork">
+        <Generators>
+            <Requirments Name = "MapGeneratorRoomsAndCorridors" NumberOfRooms ="7" RoomLengthX = "8" RoomLengthY = "8" DefaultFillTile = "Lava" DefaultRoomFloor = "CobbleFloor" DefaultHallwayFloor = "CobbleFloor" Overlap = "No" Straightness = "1"/>
+        </Generators>
+    </Map>
+
+    <Map name = "Volcano Dungeon Room" dimensions = "30, 30" location = "Ork">
+        <Generators>
+            <Requirments Name = "MapGeneratorRoomsAndCorridors" NumberOfRooms ="5" RoomLengthX = "6" RoomLengthY = "6" DefaultFillTile = "Lava" DefaultRoomFloor = "CobbleFloor" DefaultHallwayFloor = "CobbleFloor" Overlap = "No" Straightness = "1"/>
+        </Generators>
+    </Map>
+
+<!--Dungeons -->
+<Map name = "Dungeons" dimensions = "30, 30" location = "Forrest">
+        <Generators>
+            <Requirments Name = "MapGeneratorRoomsAndCorridors" NumberOfRooms ="0" RoomLengthX = "0" RoomLengthY = "0" DefaultFillTile = "Grass" DefaultRoomFloor = "Grass" DefaultHallwayFloor = "Grass" Overlap = "No" Straightness = "1"/>
+            <PerlinNode  scale = "100"  numOctaves = "3"  octavePersistence = "0.2" octaveScale = "1.1" renormalize = "true" seed ="2465" >
+                <Rule tile = "Tree" chance = "-.03"/>
+            </PerlinNode>
+        </Generators>
+    </Map>
+</Maps>

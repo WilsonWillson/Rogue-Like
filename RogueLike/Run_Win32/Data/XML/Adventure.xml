@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Adventures>
+
+<Adventure name="Exploring" title="TEST MAPS">
+    <VictoryConditions haveItems="Cave Gem"/>
+    <Map name="Forest" lowpowerLevel = "25" highPowerLevel = "35">
+      <Item type="Pile of Gold"/>
+      <Dialogue type="Start" speech="I am an example of FrameWork!" image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="End" speech="I am leaving the Level" image = "Data/Images/PrincePortrait.png"/>
+    </Map>
+  </Adventure>
+
+  <Adventure name="CaveExploring" title="Explore a Volcano for Gold">
+    <VictoryConditions haveItems="Pile of Gold"/>
+     <Map name="Cave Narrow Rooms" lowpowerLevel = "25" highPowerLevel = "35">
+      <Dialogue type="Start" speech="Time to get Rich! First I need to find this cave" image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="End" speech="Well that was pretty easy, only had to thin out a few of the local wild life to get here." image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="End" speech="But I mean, if they weren't carrying such cool weapons, I wouldn't have killed them." image = "Data/Images/PrincePortrait.png"/>
+       <Dialogue type="End" speech="Prisoner's Dilemma and stuff. Ya know?" image = "Data/Images/PrincePortrait.png"/>
+      <Exit type="Exit" destinationTile="Dirt"/>
+    </Map> 
+    <Map name="Volcano Dungeon" lowpowerLevel = "25" highPowerLevel = "35">
+      <Dialogue type="Start" speech="Time to get Rich! First I need to find this cave" image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="End" speech="Well that was pretty easy, only had to thin out a few of the local wild life to get here." image = "Data/Images/PrincePortrait.png"/>
+      <Exit type="Exit" destinationTile="Dirt"/>
+    </Map> 
+    <Map name="Volcano Big Dungeon" lowpowerLevel = "25" highPowerLevel = "35">
+      <Dialogue type="Start" speech="I swear if the treasure ends up being the journey and not gold, I will kill someone." image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="Start" speech="Well I mean, kill someone besides the monsters I've killed along the way." image = "Data/Images/PrincePortrait.png"/>
+      <Item type="Pile of Gold"/>
+    </Map>
+  </Adventure>
+
+  <Adventure name="IceCaveExploring" title="This time the Cave is Cold. Still after gold">
+    <VictoryConditions haveItems="Pile of Gold"/>
+     <Map name="Cave Narrow Rooms" lowpowerLevel = "25" highPowerLevel = "35">
+      <Dialogue type="Start" speech="The famous, Crystal Ice Temple is rumored to be here." image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="Start" speech="Good thing I packed my parka cause oh man it's cold." image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="Start" speech="As cold as the Bar Madien at the Taven!" image = "Data/Images/PrincePortrait.png"/>
+       <Dialogue type="Start" speech="Ayoooooooooo." image = "Data/Images/PrincePortrait.png"/>
+        <Dialogue type="End" speech="Oh king's blessing I'm alone and sad." image = "Data/Images/PrincePortrait.png"/>
+      <Exit type="Exit" destinationTile="Dirt"/>
+    </Map> 
+    <Map name="Ice Temple" lowpowerLevel = "25" highPowerLevel = "35">
+      <Dialogue type="Start" speech="Well now I'm alone, sad, and cold." image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="Quest" speech="More gold to spend at the Tavern is a good day in my book." image = "Data/Images/PrincePortrait.png"/>
+      <Item type="Pile of Gold"/>
+    </Map>
+  </Adventure>
+
+  <Adventure name="FireTemple" title="You Fell into a volcano!">
+    <VictoryConditions haveItems="Pile of Gold"/>
+    <Map name="Volcano Dungeon" lowpowerLevel = "25" highPowerLevel = "35">
+      <Dialogue type="Start" speech="Ow, ya know I was just chasing some gold and this Volcano just gets in the way" image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="Start" speech="I'm sure if I keep going down the pit, I'll find freedom." image = "Data/Images/PrincePortrait.png"/>
+      <Exit type="Exit" destinationTile="Dirt"/>
+    </Map>
+    <Map name="Volcano Big Dungeon" lowpowerLevel = "25" highPowerLevel = "35">
+      <Dialogue type="Start" speech="Oh man it's hot in here. Got to take off all this armor." image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="Start" speech="I mean, as long as those demons don't try hitting me." image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="Start" speech="RUDE DEMONS." image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="Quest" speech="Well here's some gold, that's as good as escaping." image = "Data/Images/PrincePortrait.png"/>
+      <Dialogue type="Quest" speech="Now is there a bar somewhere here?" image = "Data/Images/PrincePortrait.png"/>
+      <Item type="Pile of Gold"/>
+    </Map>
+
+  </Adventure>
+</Adventures>

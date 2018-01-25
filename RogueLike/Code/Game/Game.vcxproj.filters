@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="General">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{cbc610bd-b2d8-404a-ad2d-834f0f0b8c04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="World">
+      <UniqueIdentifier>{262d33f7-ef20-48d1-b830-a19e608a8352}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI">
+      <UniqueIdentifier>{089f5a25-ddb6-4b3a-8278-7c3f04b98f4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Meta">
+      <UniqueIdentifier>{78946976-410b-4711-b920-480727cc8cba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main_Win32.cpp" />
+    <ClCompile Include="Game.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="GameCommon.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="GameConfig.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="TileDefinition.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="MapFeature.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemDefinition.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Stats.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Behavior.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="WanderBehavior.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="PursueBehavior.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="FleeBehavior.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="MapGenerator.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="Path.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="PathGenerator.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="AttackBehavior.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="LeaderBehavior.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="FollowerBehavior.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="TeleportBehavior.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="SpawnerBehavior.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="Magic.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogBoxes.cpp">
+      <Filter>Meta</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.hpp">
+      <Filter>General</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCommon.hpp">
+      <Filter>General</Filter>
+    </ClInclude>
+    <ClInclude Include="App.hpp">
+      <Filter>General</Filter>
+    </ClInclude>
+    <ClInclude Include="GameConfig.hpp">
+      <Filter>General</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.hpp">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.hpp">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="TileDefinition.hpp">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="World.hpp">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.hpp">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.hpp">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.hpp">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.hpp">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="MapFeature.hpp">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemDefinition.hpp">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Stats.hpp">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Behavior.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="WanderBehavior.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="PursueBehavior.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="FleeBehavior.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="MapGenerator.hpp">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="Path.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="PathGenerator.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="AttackBehavior.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="LeaderBehavior.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="FollowerBehavior.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="TeleportBehavior.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="SpawnerBehavior.hpp">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="Magic.hpp">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogBoxes.hpp">
+      <Filter>Meta</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,43 @@
+﻿  World.cpp
+  WanderBehavior.cpp
+  TileDefinition.cpp
+c:\guildhall\p4v\depot\c26\students\wilsonjc\projects\sd4\roguelike\code\game\tiledefinition.cpp(52): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\guildhall\p4v\depot\c26\students\wilsonjc\projects\sd4\roguelike\code\game\tiledefinition.cpp(52): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+c:\guildhall\p4v\depot\c26\students\wilsonjc\projects\sd4\roguelike\code\game\tiledefinition.cpp(53): warning C4244: 'argument': conversion from 'const float' to 'const char', possible loss of data
+  Tile.cpp
+  TeleportBehavior.cpp
+  Stats.cpp
+  SpawnerBehavior.cpp
+  PursueBehavior.cpp
+  PathGenerator.cpp
+  Path.cpp
+  MapGenerator.cpp
+  MapFeature.cpp
+  Map.cpp
+c:\guildhall\p4v\depot\c26\students\wilsonjc\projects\sd4\roguelike\code\game\map.cpp(52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\guildhall\p4v\depot\c26\students\wilsonjc\projects\sd4\roguelike\code\game\map.cpp(91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main_Win32.cpp
+  Magic.cpp
+c:\guildhall\p4v\depot\c26\students\wilsonjc\projects\sd4\roguelike\code\game\magic.cpp(33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LeaderBehavior.cpp
+  ItemDefinition.cpp
+  Item.cpp
+  Inventory.cpp
+  GameConfig.cpp
+  Generating Code...
+c:\guildhall\p4v\depot\c26\students\wilsonjc\projects\sd4\roguelike\code\game\itemdefinition.cpp(160): warning C4715: 'ItemDefinition::ConvertSlotEnumValuetoString': not all control paths return a value
+  Compiling...
+  GameCommon.cpp
+  Game.cpp
+  FollowerBehavior.cpp
+  FleeBehavior.cpp
+  Entity.cpp
+  DialogBoxes.cpp
+  Character.cpp
+  Behavior.cpp
+  AttackBehavior.cpp
+  App.cpp
+c:\guildhall\p4v\depot\c26\students\wilsonjc\projects\sd4\roguelike\code\game\app.cpp(126): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Game.vcxproj -> C:\Guildhall\p4v\depot\C26\Students\wilsonjc\Projects\SD4\Roguelike\x64\Debug\Protogame.exe
+  Game.vcxproj -> C:\Guildhall\p4v\depot\C26\Students\wilsonjc\Projects\SD4\Roguelike\x64\Debug\Protogame.pdb (Partial PDB)

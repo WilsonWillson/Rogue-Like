@@ -1,0 +1,276 @@
+<?xml version="1.0"?>
+<Items>
+    <LootCategory Name = "StarterWeapon">
+        <Item Name = "Hand Ax" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Ax\hand_axe1.png"/>
+        <Item Name = "Very Pointy Stick" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\lajatang1.png"/>
+        <Item Name = "Club" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\Club.png"/>
+        <Item Name = "Basic Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\dagger.png"/>
+        <Item Name = "Short Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\orcish_short_sword.png"/>
+        <Item Name = "Rapier" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\urand_bloodbane.png"/>
+        <Item Name = "Wooden Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\quarterstaff.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "Teir2Weapons">
+        <Item Name = "Iron Ax" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Ax\hand_axe2.png"/>
+        <Item Name = "Soldier Ax" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Ax\Axe.png"/>
+        <Item Name = "Very Pointy Stick with some Iron" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\lajatang2.png"/>
+        <Item Name = "Spear" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\spear.png"/>
+        <Item Name = "Glaive" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\glaive1.png"/>
+        <Item Name = "Hammer" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\hammer1.png"/>
+       <Item Name = "Giant Club" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\giant_club.png"/>
+       <Item Name = "Flail" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\flail1.png"/>
+        <Item Name = "Soldiers Mace" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\mace1.png"/>
+        <Item Name = "Gold Tipped Mace" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\mace2.png"/>
+        <Item Name = "Elf Dagger" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\elven_dagger.png"/>
+        <Item Name = "Soldier Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\long_sword1.png"/>
+        <Item Name = "Katana" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\katana.png"/>
+        <Item Name = "Curved Blade" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\falchion1.png"/>
+        <Item Name = "Two Handed Soilders Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\two_handed_sword.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "Teir3Weapons">
+        <Item Name = "Battle Ax" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Ax\battle_axe1.png"/>
+        <Item Name = "Great Ax" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Ax\war_axe1.png"/>
+        <Item Name = "Broad Ax" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Ax\broad_axe1.png"/>
+        <Item Name = "Fishermans Spear" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\spear2.png"/>
+        <Item Name = "Large Glaive" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\glaive2.png"/>
+        <Item Name = "Dwarfen Hammer" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\hammer2.png"/>
+        <Item Name = "Halberd" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\halberd1.png"/>
+        <Item Name = "Gold Tipped Flail" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\flail2.png"/>
+        <Item Name = "Giant Mace" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\mace3.png"/>
+        <Item Name = "Long Ranged Mace" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\mace_large1.png"/>
+         <Item Name = "Wide Dagger" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\elven_short_sword.png"/>
+         <Item Name = "Double Pointed Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\double_sword.png"/>
+        <Item Name = "Samurais Blade" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\katana1.png"/>
+        <Item Name = "Gold Tipped Curved Blade" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\falchion2.png"/>
+        <Item Name = "Ork Soldier Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\orcish_great_sword.png"/>
+        <Item Name = "Ork Long Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\orcish_long_sword.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "Teir4Weapons">
+        <Item Name = "Silver War Ax" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Ax\war_axe2.png"/>
+        <Item Name = "Gold Tipped Ax" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Ax\broad_axe3.png"/>
+        <Item Name = "Elven Spear" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\spear1_elven.png"/>
+        <Item Name = "Trident" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\trident1.png"/>
+        <Item Name = "Silver Halberd" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\halberd2.png"/>
+         <Item Name = "Spiky Flail" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\spiked_flail1.png"/>
+        <Item Name = "Morningstar" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\morningstar1.png"/>
+        <Item Name = "Knights Mace" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\mace_large2.png"/>
+        <Item Name = "Rogues Dagger" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\short_sword1.png"/>
+        <Item Name = "The Forests Guardian Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\urand_leech.png"/>
+        <Item Name = "Grandmasters Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\spwpn_sword_of_zonguldrok2.png"/>
+        <Item Name = "Ninja Katana" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\katana2.png"/>
+        <Item Name = "Sabre" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\sabre1_silver.png"/>
+        <Item Name = "Grand Great Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\greatsword1.png"/>
+        <Item Name = "Scimitar" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\scimitar1.png"/>
+    </LootCategory>
+
+     <LootCategory Name = "Teir5Weapons">
+        <Item Name = "Executioners Ax" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Ax\executioner_axe1.png"/>
+         <Item Name = "Two Sided Hammer" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\lucern_hammer.png"/>
+        <Item Name = "Massive Glaive" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\bardiche2.png"/>
+         <Item Name = "Flail Sword Combo" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\great_flail1.png"/>
+        <Item Name = "Sunsetstar" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\eveningstar1.png"/>
+        <Item Name = "Diamond Coated Dagger" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\urand_spriggans_knife.png"/>
+        <Item Name = "DragonBlade" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\long_sword2.png"/>
+        <Item Name = "Diamond Coated Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\urand_jihad.png"/>
+        <Item Name = "Tsurugi" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\tsurugi.png"/>
+        <Item Name = "Duelmasters Sabre" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\sabre2.png"/>
+        <Item Name = "Runed BroadSword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\elven_broadsword.png"/>
+        <Item Name = "Cutlass" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\urand_cutlass.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "SpecialWeapons">
+         <Item Name = "Ax of Legends" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Ax\urand_arga.png"/>
+         <Item Name = "Two Sided Glaive" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\urand_elemental.png"/>
+        <Item Name = "Deaths Scythe" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\urand_finisher.png"/>
+        <Item Name = "Neptunes Trident" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\halberd\trident2.png"/>
+        <Item Name = "Great War Hammer" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\war_hammer.png"/>
+        <Item Name = "Gold Flaked Spiked Flail" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\spiked_flail2.png"/>
+        <Item Name = "Gold SunsetStar" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Mace\eveningstar2.png"/>
+         <Item Name = "Power Blade" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\spwpn_sword_of_power.png"/>
+        <Item Name = "Deaths Blade" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\spwpn_sword_of_zonguldrok.png"/>
+        <Item Name = "Ancient Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\ancient_sword.png"/>
+         <Item Name = "Triple Bladed Sword" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\triple_sword.png"/>
+        <Item Name = "Red Solders Dagger" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Sword\urand_knife_of_accuracy.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "StartingMagicWeapon">
+        <Item Name = "Wooden Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\quarterstaff.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "MagicWeaponTeir2">
+        <Item Name = "Shamen Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\urand_botono.png"/>
+        <Item Name = "Walking Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\rod00.png"/>
+        <Item Name = "Moon Worshiper Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\rod01.png"/>
+        <Item Name = "Planet Worshiper Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\rod02.png"/>
+        <Item Name = "Ice Worshiper Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\rod03.png"/>
+        <Item Name = "Fire Worshiper Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\rod04.png"/>
+        <Item Name = "Metal Worshiper Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\rod05.png"/>
+        <Item Name = "Apprentice Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\staff04.png"/>
+        <Item Name = "Copper Wand" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\wand_copper.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "MagicWeaponTeir3">
+        <Item Name = "Ice Shrine Warden Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\rod06.png"/>
+        <Item Name = "Fire Shrine Warden Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\rod07.png"/>
+        <Item Name = "Two Pronged Ice Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\rod08.png"/>
+        <Item Name = "Nature Shrine Warden Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\rod09.png"/>
+        <Item Name = "Silver Wand" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\wand_silver.png"/>
+        <Item Name = "Gem Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_brass.png"/>
+        <Item Name = "Bronze Gem Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_bronze.png"/>
+        <Item Name = "Copper Gem Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_copper.png"/>
+        <Item Name = "Iron Gem Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_iron.png"/>
+        <Item Name = "Ivory Gem Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_ivory.png"/>
+        <Item Name = "Bone Gem Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_bone.png"/>
+        <Item Name = "Crystal Gem Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_lead.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "MagicWeaponTeir4">
+        <Item Name = "Reaper Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\staff00.png"/>
+        <Item Name = "World Tree Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\staff02.png"/>
+        <Item Name = "Master Druid Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\staff06.png"/>
+        <Item Name = "Golden Eye Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\staff07.png"/>
+        <Item Name = "Closed Golden Eye Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\staff08.png"/>
+        <Item Name = "Golden Star Wand" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\wand_brass.png"/>
+        <Item Name = "Emerald Jeweled Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_wood.png"/>
+        <Item Name = "Pure Cyrstal Jeweled Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_plastic.png"/>
+        <Item Name = "Pure Silver Jeweled Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_silver.png"/>
+        <Item Name = "Pure Bronze Jeweled Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_brass.png"/>
+        <Item Name = "Pure Gold Jeweled Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_gold.png"/>
+        <Item Name = "Pure Amethyst Jeweled Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\gem_glass.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "MagicWeaponTeir5">
+    <Item Name = "Bones of the Old War Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\spwpn_staff_of_dispater2.png"/>
+    <Item Name = "Demon Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\staff03.png"/>
+    <Item Name = "Grand Priest Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\staff01.png"/>
+    <Item Name = "Natures Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\staff05.png"/>
+    <Item Name = "Demon Bone Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\staff09.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "MagicSpecialWeapon">
+        <Item Name = "God Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\urand_undeadhunter.png"/>
+        <Item Name = "Madok Magic Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\spwpn_sceptre_of_asmodeus2.png"/>
+        <Item Name = "Golden Cross Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Basic\Staff\spwpn_sceptre_of_torment2.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "MagicElementalWeapon">
+        <Item Name = "Rainbow Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Elemental\Staff\spwpn_mace_of_variability.png"/>
+        <Item Name = "Blessed Holy Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Elemental\Staff\spwpn_sceptre_of_asmodeus.png"/>
+        <Item Name = "Lava Filled Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Elemental\Staff\spwpn_sceptre_of_torment.png"/>
+        <Item Name = "Growing Staff of Nature" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Elemental\Staff\spwpn_staff_of_olgreb.png"/>
+        <Item Name = "Staff of Pure Ocean Water" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Elemental\Staff\spwpn_wucad_mu.png"/>
+        <Item Name = "Glowing Staff" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Elemental\Staff\urand_brilliance.png"/>
+        <Item Name = "Staff of the Underlord" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\weapon\Elemental\Staff\urand_octopus_king.png"/>
+    </LootCategory>
+
+
+    <LootCategory Name = "StartingArmor">
+        <Item Name = "Leather Boots" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Feet" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Boots\low_boots.png"/>
+         <Item Name = "White Gloves" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Gloves" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Hands\urand_fencer.png"/>
+         <Item Name = "Wool Cap" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\cap1.png"/>
+        <Item Name = "Leather Cloak" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\cloak1_leather.png"/>
+        <Item Name = "Animal Skin Cloak" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\animal_skin1.png"/>
+        <Item Name = "Elven Leather Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\elven_leather_armor.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "ArmorTeir2">
+        <Item Name = "Hiking Boots" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Feet" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Boots\boots1_brown.png"/>
+        <Item Name = "Wool Gloves" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Gloves" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Hands\glove1.png"/>
+        <Item Name = "Wool Knit Red Cap" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\cap2.png"/>
+        <Item Name = "Iron Helm" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\helmet2_etched.png"/>
+        <Item Name = "Grey Silk Cloak" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\cloak2.png"/>
+        <Item Name = "Blue Wizard Cloak" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\cloak3.png"/>
+        <Item Name = "Red Wizard Cloak" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\cloak4.png"/>
+        <Item Name = "Lepoard Skin" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\animal_skin2.png"/>
+        <Item Name = "Troll Hide" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\troll_hide.png"/>
+        <Item Name = "Soldier Chainmail" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\chain_mail1.png"/>
+        <Item Name = "Blacksmith Chainmail" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\chain_mail3.png"/>
+        <Item Name = "Fake DragonScale" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_dragon_king.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "ArmorTeir3">
+        <Item Name = "Steel Toed Yak Boots" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Feet" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Boots\boots2_jackboots.png"/>
+        <Item Name = "Runed Knited Gloves" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Hands" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Hands\glove2.png"/>
+        <Item Name = "Elven Leather Helm" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\elven_leather_helm.png"/>
+        <Item Name = "Feathered Iron Helmet" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\plumed_helmet.png"/>
+         <Item Name = "Steel Bladed Helmet" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\crested_helmet.png"/>
+         <Item Name = "Priest Robes" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\robe1.png"/>
+         <Item Name = "Magicians Robes" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\robe2.png"/>
+         <Item Name = "Well Worn Leather" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\leather_armour1.png"/>
+          <Item Name = "RatSkin Garbage Cloak" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_ratskin_cloak.png"/>
+          <Item Name = "Grand Knights Chainmail" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\chain_mail2.png"/>
+          <Item Name = "Splintmail" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\splint_mail2.png"/>
+          <Item Name = "Baby Dragonscale Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\green_dragon_scale_mail.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "ArmorTeir4">
+        <Item Name = "Stripped Metal Boots" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Feet" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Boots\boots3_stripe.png"/>
+        <Item Name = "Chainmail Gloves" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Gloves" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Hands\glove3.png"/>
+        <Item Name = "Wizard Hat" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\wizard_hat1.png"/>
+        <Item Name = "Knight Helmet" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\helmet1_visored.png"/>
+        <Item Name = "Bishops Robes" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_flash.png"/>
+        <Item Name = "Cultist Robes" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_folly.png"/>
+        <Item Name = "Roman Leather Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\leather_armour2.png"/>
+        <Item Name = "Tightly Bound Yak Leather Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_lear.png"/>
+         <Item Name = "Platemail" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\orcish_platemail.png"/>
+          <Item Name = "Ring Linked Iron Mail" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\ring_mail2.png"/>
+        <Item Name = "Ice Dragonscale armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\ice_dragon_armour.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "ArmorTeir5">
+        <Item Name = "Color Clashing Emerald Coated Boots" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Boots" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Boots\boots4_green.png"/>
+        <Item Name = "The Worlds Trees Gloves" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Gloves" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Hands\glove4.png"/>
+        <Item Name = "Master Wizard Hat" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\wizard_hat2.png"/>
+        <Item Name = "Executioner Helm" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\helmet4_visor.png"/>
+        <Item Name = "Sky Robes" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_clouds.png"/>
+        <Item Name = "Night Robes" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_night.png"/>
+        <Item Name = "Day Robes" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_misfortune.png"/>
+        <Item Name = "Premium Troll Leather Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\troll_leather_armour.png"/>
+        <Item Name = "Ork Skin Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\orcish_leather_armor.png"/>
+        <Item Name = "Full Body Plate Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\plate_mail1.png"/>
+        <Item Name = "Golden Captain Plate Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\plate_mail2.png"/>
+        <Item Name = "Swamp Dragon Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\swamp_dragon_armour.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "ArmorTeir6">
+        <Item Name = "Iron Boot" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Feet" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Boots\boots_iron2.png"/>
+        <Item Name = "Iron Gauntlet" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Gloves" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Hands\gauntlet1.png"/>
+        <Item Name = "Dragonscale Helm" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\urand_dragonmask.png"/>
+        <Item Name = "Merlin's Hat" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\urand_pondering.png"/>
+         <Item Name = "Commanders Helm" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\helmet3.png"/>
+         <Item Name = "Theif Invisibility Cloak" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_thief.png"/>
+         <Item Name = "Star Weaved Cloak" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_starlight.png"/>
+         <Item Name = "Roman Commanders Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\leather_armour3.png"/>
+         <Item Name = "Studded Leather Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\studded_leather_armor.png"/>
+         <Item Name = "Crystal Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\crystal_plate_mail.png"/>
+         <Item Name = "Living Lava Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_salamander.png"/>
+         <Item Name = "Silver DragonScale Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\silver_dragon_scale_mail.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "ArmorSpecial">
+        <Item Name = "Black Soul Boots" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Feet" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Boots\urand_assassin.png"/>
+        <Item Name = "Magic Infused Gloves" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Gloves" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Hands\glove4_gauntlets.png"/>
+        <Item Name = "Socerer's Apprentice Apprentice Hat" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\cornuthaum.png"/>
+        <Item Name = "Dragon Kings Crown" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\urand_dyrovepreva.png"/>
+        <Item Name = "Watermelon Mask" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Head" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Helm\green_mask.png"/>
+        <Item Name = "Crystal Woven Cloak" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_augmentation.png"/>
+         <Item Name = "Master Wizards Robe" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\robe3.png"/>
+         <Item Name = "Dragon Leather Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_zhor.png"/>
+         <Item Name = "Crystal Covered Rock Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Weapon" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_faerie.png"/>
+         <Item Name = "Emerald Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\urand_maxwell.png"/>
+         <Item Name = "Mottled Dragon Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\mottled_dragon_armour.png"/>
+         <Item Name = "Golden Dragon Armor" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Chest" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\Chest\gold_dragon_armour.png"/>
+    </LootCategory>
+
+
+    <LootCategory Name = "RingsAndNecklaces">
+         <Item Name = "Copper Ring" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Rings" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\ring\copper.png"/>
+         <Item Name = "Crystal Necklace" GLYPHRGBA = "255,255,255,255" GLYPH = "s" Slot = "Neck" Strength = "2" Intellegence = "2" Agility = "2" Stamina = "2" Weight = "3" Type = "Normal" Image = "Data\Images\Armor\amulet\crystal_white.png"/>
+    </LootCategory>
+
+    <LootCategory Name = "Quest">
+        <Item Name = "Pile of Gold" GlYPHRGBA = "218,165,32,255" GLYPH = "G" Slot = "None" Strength = "0" Intellegence = "0" Agility = "0" Stamina = "0" Weight = "0" Type = "Quest" Image = "Data/Images/gold_pile.png"/>
+    </LootCategory>
+</Items>

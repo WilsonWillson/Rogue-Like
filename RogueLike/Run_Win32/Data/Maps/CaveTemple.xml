@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Maps>
+ <Map dimensions = "10, 5">
+		 <Row attribute = ".....X...X"/>
+		 <Row attribute = ".....X...X"/>
+		 <Row attribute = ".........X"/>
+		 <Row attribute = ".....X...X"/>
+		 <Row attribute = ".....X...X"/>
+    </Map>
+</Maps>
